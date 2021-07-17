@@ -21,14 +21,14 @@ Hi, i'm [Ronald Sianipar](https://ronaldsianypar.herokuapp.com/), I'm a Web Deve
 
 <!--START_SECTION:waka-->
 ```text
-Framework Laravel     ██████████████████████████
-PHP Native            ██████████████████████████
-MySQL                 ██████████████████████████
-Bootstrap             ██████████████████████████
-C++                   ██████████████████████████
-VB.NET                ██████████████████████████
-GitHub                ██████████████████████████
-GitLab                ██████████████████████████
+Framework Laravel     ████████████████████████
+PHP Native            ████████████████████████
+MySQL                 ████████████████████████
+Bootstrap             ████████████████████████
+C++                   ████████████████████████
+VB.NET                ████████████████████████
+GitHub                ████████████████████████
+GitLab                ████████████████████████
 ```
 <!--END_SECTION:waka-->
 
