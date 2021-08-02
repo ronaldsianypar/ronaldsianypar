@@ -1,9 +1,9 @@
-### Hello Everyone, Welcome To My GitHub Account <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Welcome to My GitHub Page <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
 <br />
 
-Hi, i'm [Ronald Sianipar](https://ronaldsianypar.herokuapp.com/), I'm a Web Developer from Indonesia. At first I learned coding, namely the C++ programming language, then moved to VB.NET and now I really like being a Web Developer.
+Hello everyone, introduce my name [Ronald Sianipar](https://ronaldsianypar.herokuapp.com/), I'm a Web Developer from Indonesia. At first I learned coding, namely the C++ programming language, then moved to VB.NET and now I really like being a Web Developer.
 <br><br><br>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
