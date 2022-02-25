@@ -23,7 +23,9 @@ Hello everyone, introduce my name [Ronald Sianipar](https://ronaldsianypar.herok
 ```text
 Framework Laravel     ████████████████████████
 PHP Native            ████████████████████████
+Nuxt JS               ████████████████████████
 MySQL                 ████████████████████████
+PostgreSQL            ████████████████████████
 Bootstrap             ████████████████████████
 C++                   ████████████████████████
 VB.NET                ████████████████████████
