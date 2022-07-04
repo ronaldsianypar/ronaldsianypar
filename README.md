@@ -39,7 +39,3 @@ GitLab                ███████████████████�
 <a href="https://www.linkedin.com/in/ronald-sianipar/" target="_blank">
   <img align="left" alt="Ronald Sianipar LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://www.facebook.com/people/Ronald-Sianypar/100009081570274/" target="_blank">
-  <img align="left" alt="Ronald Sianipar LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
-</a>
-
