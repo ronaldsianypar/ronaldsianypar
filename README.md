@@ -43,5 +43,5 @@ GitLab                ███████████████████�
 **Visit:** 
 
 <a href="https://www.linkedin.com/in/ronald-sianipar/" target="_blank">
-  <img align="left" alt="Ronald Sianipar LinkedIN" width="22px" src="https://camo.githubusercontent.com/6a4d8bc7597946d1ffbd7f97691b2e7a556c44c2e268ffaa95897ff54507e441/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f6c696e6b6564696e" />
+  <img align="left" alt="Ronald Sianipar LinkedIN" width="22px" src="https://avatars.githubusercontent.com/u/357098?s=200&v=4" />
 </a>
