@@ -38,7 +38,7 @@ VB.NET                ███████████████████�
 GitHub                ████████████████████████
 GitLab                ████████████████████████
 
-### 🌐 Cloud & Server Management
+🌐 Cloud & Server Management
 - ☁️ Amazon Elastic Compute Cloud (EC2)
 - 🗄️ Amazon S3
 - 🛠️ Amazon Relational Database Service (RDS)
@@ -49,37 +49,37 @@ GitLab                ███████████████████�
 - 🌐 Configuring Domains & Subdomains
 - 🔒 Setting Up HTTPS
 
-### 💻 Web Development Frameworks
+💻 Web Development Frameworks
 - ⚙️ Laravel Framework
 - 🔍 PHP Native
 - 🖥️ Vue JS
 - 🚀 Nuxt JS
 
-### 🎨 Frontend & Design
+🎨 Frontend & Design
 - ✂️ Slicing Figma to HTML & CSS
 - 📝 HTML & CSS
 - 📐 Bootstrap Framework
 
-### 📈 SEO & App Deployment
+📈 SEO & App Deployment
 - 🔍 SEO Optimization
 - 📦 Upload .aab to Google Play Console
 
-### 🗃️ Database Management
+🗃️ Database Management
 - 🛢️ MySQL
 - 🗄️ PostgreSQL
 - 📦 Database Backup & Restoration
 
-### 📋 Content Management
+📋 Content Management
 - 📝 GraphCMS
 
-### 🛠️ Version Control
+🛠️ Version Control
 - 🔧 GitHub & GitLab
 
-### 💻 Programming Languages
+💻 Programming Languages
 - 🔣 C++
 - 📊 VB.NET
 
-### 🧠 Logical Thinking & Problem Solving
+🧠 Logical Thinking & Problem Solving
 - 🧩 Strong Logical Thinking
 - 🛠️ Effective Problem-Solving Skills
 ```
