@@ -37,6 +37,51 @@ C++                   ███████████████████�
 VB.NET                ████████████████████████
 GitHub                ████████████████████████
 GitLab                ████████████████████████
+
+### 🌐 Cloud & Server Management
+- ☁️ Amazon Elastic Compute Cloud (EC2)
+- 🗄️ Amazon S3
+- 🛠️ Amazon Relational Database Service (RDS)
+- 🔧 Cloud Server Management
+- 🏢 On-Premise Server Management
+- 🔍 Monitoring Ubuntu Server
+- 🖥️ Setting Apache2, Nginx, and DNS
+- 🌐 Configuring Domains & Subdomains
+- 🔒 Setting Up HTTPS
+
+### 💻 Web Development Frameworks
+- ⚙️ Laravel Framework
+- 🔍 PHP Native
+- 🖥️ Vue JS
+- 🚀 Nuxt JS
+
+### 🎨 Frontend & Design
+- ✂️ Slicing Figma to HTML & CSS
+- 📝 HTML & CSS
+- 📐 Bootstrap Framework
+
+### 📈 SEO & App Deployment
+- 🔍 SEO Optimization
+- 📦 Upload .aab to Google Play Console
+
+### 🗃️ Database Management
+- 🛢️ MySQL
+- 🗄️ PostgreSQL
+- 📦 Database Backup & Restoration
+
+### 📋 Content Management
+- 📝 GraphCMS
+
+### 🛠️ Version Control
+- 🔧 GitHub & GitLab
+
+### 💻 Programming Languages
+- 🔣 C++
+- 📊 VB.NET
+
+### 🧠 Logical Thinking & Problem Solving
+- 🧩 Strong Logical Thinking
+- 🛠️ Effective Problem-Solving Skills
 ```
 <!--END_SECTION:waka-->
 
