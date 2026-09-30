@@ -42,9 +42,13 @@ I started my programming journey with <strong>C++</strong>, continued with <stro
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### 💻 Backend Development
+<table>
+<tr>
+<td width="50%" valign="top">
+
+## 💻 Backend Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=php,laravel,python,fastapi,codeigniter" />
@@ -61,7 +65,11 @@ I started my programming journey with <strong>C++</strong>, continued with <stro
 - Microservices
 - Monolithic Architecture
 
-### 🎨 Frontend Development
+</td>
+
+<td width="50%" valign="top">
+
+## 🎨 Frontend Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,javascript,jquery,vue,nuxt,bootstrap" />
@@ -81,7 +89,13 @@ I started my programming journey with <strong>C++</strong>, continued with <stro
 - Responsive Web Design
 - Figma to HTML & CSS
 
-### 🗄️ Database
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+## 🗄️ Database
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
@@ -98,7 +112,11 @@ I started my programming journey with <strong>C++</strong>, continued with <stro
 - Database Backup & Restoration
 - Large-scale Data Processing
 
-### ☁️ Cloud & Infrastructure
+</td>
+
+<td width="50%" valign="top">
+
+## ☁️ Cloud & Infrastructure
 
 <p>
   <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,linux,ubuntu,nginx,apache" />
@@ -122,7 +140,13 @@ I started my programming journey with <strong>C++</strong>, continued with <stro
 - System Monitoring
 - Log Analysis
 
-### 🧰 Tools & Version Control
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+## 🧰 Tools & Version Control
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode" />
@@ -138,7 +162,11 @@ I started my programming journey with <strong>C++</strong>, continued with <stro
 - WinSCP
 - XAMPP
 
-### 🔗 Integration & Automation
+</td>
+
+<td width="50%" valign="top">
+
+## 🔗 Integration & Automation
 
 - REST API Integration
 - System Integration
@@ -152,9 +180,19 @@ I started my programming journey with <strong>C++</strong>, continued with <stro
 - RPA & Automated Data Processing
 - Scheduled Jobs / Cron
 
+</td>
+</tr>
+</table>
+
 ---
 
-## 🏗️ Architecture & Development
+# 🏗️ Architecture & Development
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+## 🏛️ Architecture
 
 - MVC Architecture
 - Object-Oriented Programming
@@ -162,11 +200,24 @@ I started my programming journey with <strong>C++</strong>, continued with <stro
 - Microservices Architecture
 - Backend Services
 - REST API Development
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🔧 Development
+
 - Database Optimization
 - System Integration
 - Production Troubleshooting
 - Technical Analysis
 - Problem Solving
+- Application Deployment
+- Production Support
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -232,19 +283,10 @@ Worked on:
 
 ---
 
-## 🎓 Education
+# 🎓 Education
+`2022 - 2026` **Universitas Pamulang - Informatics Engineering**
 
-### Universitas Pamulang
-
-**Informatics Engineering**
-
-`2022 - 2026`
-
-### SMK Wikrama Bogor
-
-**Software Engineering**
-
-`2018 - 2021`
+`2018 - 2021` **SMK Wikrama Bogor - Software Engineering**
 
 ---
 
