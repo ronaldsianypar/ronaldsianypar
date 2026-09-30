@@ -8,7 +8,7 @@
 
 <br />
 
-<h2>👋 Hello, I'm Ronald Sianipar</h2>
+<h2>Hello, I'm Ronald Sianipar</h2>
 
 <p>
 I'm a <strong>Full Stack Developer</strong> from Indonesia with <strong>5+ years of professional experience</strong> building, maintaining, deploying, and supporting web-based systems.
@@ -270,11 +270,6 @@ Worked on:
 ---
 
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/55264627" alt="Ronald's GitHub Stats" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ronaldsianypar&theme=default&hide_border=true" alt="GitHub Streak" />
 </p>
@@ -304,5 +299,5 @@ Worked on:
 ---
 
 <p align="center">
-  Thanks for visiting my profile! 🚀
+  Thanks for visiting my profile!
 </p>
