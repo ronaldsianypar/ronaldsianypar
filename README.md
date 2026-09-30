@@ -46,82 +46,87 @@ I started my programming journey with <strong>C++</strong>, continued with <stro
 
 ### 💻 Backend Development
 
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/9f8a7e3ed1b0f2e2f2d9e4f0e5f9f5c5d9e6b5d/topics/php/php.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/9f8a7e3ed1b0f2e2f2d9e4f0e5f9f5c5d9e6b5d/topics/laravel/laravel.png"></code>
-<code><img height="25" src="https://avatars.githubusercontent.com/u/2347032?s=200&v=4"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/9f8a7e3ed1b0f2e2f2d9e4f0e5f9f5c5d9e6b5d/topics/python/python.png"></code>
-<code><img height="25" src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png"></code>
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,python,fastapi,codeigniter" />
+</p>
+
+- PHP
+- Laravel
+- CodeIgniter
+- PHP Native
+- Python
+- FastAPI
+- SQLAlchemy
+- REST API
+- Microservices
+- Monolithic Architecture
 
 ### 🎨 Frontend Development
 
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/9f8a7e3ed1b0f2e2f2d9e4f0e5f9f5c5d9e6b5d/topics/html/html.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/9f8a7e3ed1b0f2e2f2d9e4f0e5f9f5c5d9e6b5d/topics/css/css.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/9f8a7e3ed1b0f2e2f2d9e4f0e5f9f5c5d9e6b5d/topics/javascript/javascript.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/9f8a7e3ed1b0f2e2f2d9e4f0e5f9f5c5d9e6b5d/topics/vue/vue.png"></code>
-<code><img height="25" src="https://avatars.githubusercontent.com/u/23360933?s=200&v=4"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/9f8a7e3ed1b0f2e2f2d9e4f0e5f9f5c5d9e6b5d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="25" src="https://jquery.com/jquery-wp-content/themes/jquery.com/i/favicon.ico"></code>
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,jquery,vue,nuxt,bootstrap" />
+</p>
+
+- HTML
+- CSS
+- JavaScript
+- jQuery
+- Vue.js
+- Nuxt.js
+- Bootstrap
+- AdminLTE
+- DataTables
+- Select2
+- SweetAlert
+- Responsive Web Design
+- Figma to HTML & CSS
 
 ### 🗄️ Database
 
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/9f8a7e3ed1b0f2e2f2d9e4f0e5f9f5c5d9e6b5d/topics/mysql/mysql.png"></code>
-<code><img height="25" src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/9f8a7e3ed1b0f2e2f2d9e4f0e5f9f5c5d9e6b5d/topics/postgresql/postgresql.png"></code>
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+</p>
 
+- MySQL
+- MariaDB
+- PostgreSQL
 - SQL
 - Database Design
 - Query Optimization
 - Database Indexing
 - Transactions
-- Backup & Restoration
+- Database Backup & Restoration
 - Large-scale Data Processing
 
 ### ☁️ Cloud & Infrastructure
 
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/9f8a7e3ed1b0f2e2f2d9e4f0e5f9f5c5d9e6b5d/topics/aws/aws.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/9f8a7e3ed1b0f2e2f2d9e4f0e5f9f5c5d9e6b5d/topics/docker/docker.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/9f8a7e3ed1b0f2e2f2d9e4f0e5f9f5c5d9e6b5d/topics/kubernetes/kubernetes.png"></code>
-<code><img height="25" src="https://www.jenkins.io/images/logos/jenkins/jenkins.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/9f8a7e3ed1b0f2e2f2d9e4f0e5f9f5c5d9e6b5d/topics/ubuntu/ubuntu.png"></code>
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,linux,ubuntu,nginx,apache" />
+</p>
 
 - Amazon EC2
 - Amazon S3
 - Amazon RDS
-- Docker & Docker Compose
-- Kubernetes
-- Jenkins & CI/CD
+- Cloud Server Management
+- On-Premise Server Management
 - Linux Server Administration
 - Ubuntu & CentOS
 - Apache / Apache2
 - Nginx
 - PHP-FPM
-- SSH
 - DNS & Domain Configuration
 - HTTPS / SSL
+- SSH
 - FTP Server
 - Production Support
 - System Monitoring
 - Log Analysis
 
-### 🔗 Integration & Automation
-
-- REST API
-- API Integration
-- System Integration
-- System Synchronization
-- CORS
-- JSON
-- SMTP / Email Integration
-- SharePoint Integration
-- Reporting Automation
-- Excel-to-Database Processing
-- RPA & Automated Data Processing
-- Scheduled Jobs / Cron
-
 ### 🧰 Tools & Version Control
 
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/9f8a7e3ed1b0f2e2f2d9e4f0e5f9f5c5d9e6b5d/topics/git/git.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/9f8a7e3ed1b0f2e2f2d9e4f0e5f9f5c5d9e6b5d/topics/github/github.png"></code>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode" />
+</p>
 
 - Git
 - GitHub
@@ -132,6 +137,20 @@ I started my programming journey with <strong>C++</strong>, continued with <stro
 - PuTTY
 - WinSCP
 - XAMPP
+
+### 🔗 Integration & Automation
+
+- REST API Integration
+- System Integration
+- System Synchronization
+- CORS
+- JSON
+- SMTP / Email Integration
+- SharePoint Integration
+- Reporting Automation
+- Excel-to-Database Processing
+- RPA & Automated Data Processing
+- Scheduled Jobs / Cron
 
 ---
 
@@ -151,81 +170,81 @@ I started my programming journey with <strong>C++</strong>, continued with <stro
 
 ---
 
-## 🚀 Featured Projects
-
-### JPAR — JNE Tangerang Internal Application
-
-Internal enterprise application covering:
-
-- Billing & transaction processing
-- Reporting
-- Agent & member management
-- Promotions
-- Operational workflows
-- Backend services
-- Database processing
-- System integrations
-
-### E-PATROL
-
-Microservice-based backend application using:
-
-- Python
-- FastAPI
-- SQLAlchemy
-- Alembic
-- PostgreSQL
-- Docker
-- Kubernetes
-- Gunicorn
-
-### Freelance Attendance
-
-Internal attendance system supporting:
-
-- Attendance processing
-- Scheduled data synchronization
-- Database processing
-- Reporting
-
-### RPA & Automated Data Processing
-
-Automation workflows for:
-
-- Scheduled inbound processing
-- Intracity data processing
-- SharePoint integration
-- Automated reporting
-- Repetitive operational workflows
-
----
-
 ## 💼 Professional Experience
 
-**Full Stack Developer — PT JALA NIAGA ELOK (JNE Tangerang)**  
+### Full Stack Developer — PT JALA NIAGA ELOK (JNE Tangerang)
+
 `Dec 2023 - Present`
 
-**Full Stack Developer — PT MITRA FESYEN GLOBAL**  
+Working across:
+
+- Web application development
+- Backend development
+- Server administration
+- Database management
+- Application deployment
+- Production support
+- System integration
+- Automation
+- Microservices
+- Monolithic applications
+
+### Full Stack Developer — PT MITRA FESYEN GLOBAL
+
 `Oct 2021 - Dec 2023`
 
-**Freelance Web Developer — Ministry of Foreign Affairs of the Republic of Indonesia**  
+Worked on:
+
+- Web application development
+- Backend development
+- Database management
+- Server management
+- Cloud infrastructure
+- Microservice-based websites
+- Internal dashboards
+- SEO optimization
+- Application deployment
+
+### Freelance Web Developer — Ministry of Foreign Affairs of the Republic of Indonesia
+
 `Jun 2021 - Nov 2021`
 
-**Web Developer Intern — LENNA.AI**  
+- Developed an LMS application named CETO
+- Created application use cases
+- Designed and compiled application databases
+
+### Web Developer Intern — LENNA.AI
+
 `Aug 2021 - Sep 2021`
 
-**Web Developer Intern — CV IDS**  
+- Developed and maintained website updates
+- Learned and implemented Nuxt.js
+- Used GitHub for collaboration and version control
+- Presented project progress to management
+
+### Web Developer Intern — CV IDS
+
 `Sep 2020 - Dec 2020`
+
+- Developed company bio website using PHP Native
+- Developed student data management system using Laravel, MySQL, and Bootstrap
+- Collaborated using GitLab
 
 ---
 
 ## 🎓 Education
 
-**Universitas Pamulang**  
-Informatics Engineering — `2022 - 2026`
+### Universitas Pamulang
 
-**SMK Wikrama Bogor**  
-Software Engineering — `2018 - 2021`
+**Informatics Engineering**
+
+`2022 - 2026`
+
+### SMK Wikrama Bogor
+
+**Software Engineering**
+
+`2018 - 2021`
 
 ---
 
@@ -240,41 +259,46 @@ Software Engineering — `2018 - 2021`
 
 ---
 
+## 🌐 Portfolio
+
+<p align="center">
+  <a href="https://ronaldsianypar.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-F96D00?style=for-the-badge" alt="Portfolio">
+  </a>
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ronaldsianypar&show_icons=true&theme=default&hide_border=true" />
+  <img src="https://avatars.githubusercontent.com/u/55264627" alt="Ronald's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ronaldsianypar&theme=default&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ronaldsianypar&theme=default&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
 ## 🤝 Let's Connect
 
-<p align="left">
-
-<a href="https://ronaldsianypar.github.io/" target="_blank">
-  🌐 Portfolio
-</a>
-<br>
-
-<a href="https://www.linkedin.com/in/ronald-sianipar/" target="_blank">
-  💼 LinkedIn
-</a>
-<br>
-
-<a href="https://github.com/ronaldsianypar" target="_blank">
-  🐙 GitHub
-</a>
-<br>
-
-<a href="mailto:ronaldsianypar@gmail.com">
-  📧 Email
-</a>
-
+<p align="center">
+  <a href="https://ronaldsianypar.github.io/">
+    🌐 Portfolio
+  </a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/ronald-sianipar/">
+    💼 LinkedIn
+  </a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://github.com/ronaldsianypar">
+    🐙 GitHub
+  </a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="mailto:ronaldsianypar@gmail.com">
+    📧 Email
+  </a>
 </p>
 
 ---
