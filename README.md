@@ -1,79 +1,284 @@
+<strong><p align="center">Welcome to My GitHub Profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></p></strong>
 
-<strong><p align="center">Welcome to My GitHub Page<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></p></strong>
+<p align="center">
+  <a href="https://ronaldsianypar.github.io/">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/ronald-sianipar/">LinkedIn</a> •
+  <a href="mailto:ronaldsianypar@gmail.com">Email</a>
+</p>
 
 <br />
 
-Hello everyone, introduce my name [Ronald Sianipar](https://ronaldsianypar.github.io/), I'm a Web Developer from Indonesia. At first I learned coding, namely the C++ programming language, then moved to VB.NET and now I really like being a [Full Stack Developer]([https://ronaldsianypar.herokuapp.com/](https://ronaldsianypar.github.io/)).
-<br><br><br>
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-  
-- 💼 Any freelance work? do reach, [email](mailto:ronaldsianypar@gmail.com) :)
-- 💬 Ask me about anything, i am happy to help;
+<h2>👋 Hello, I'm Ronald Sianipar</h2>
 
-**Languages and Tools:**  
+<p>
+I'm a <strong>Full Stack Developer</strong> from Indonesia with <strong>5+ years of professional experience</strong> building, maintaining, deploying, and supporting web-based systems.
+</p>
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="20" src="https://avatars.githubusercontent.com/u/20827202?s=200&v=4"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
-<code><img height="20" src="https://camo.githubusercontent.com/5a6602c9c4be5bac5bc9c4146fb5ba55548cefd8b0ba47e456f06652e42c28dc/68747470733a2f2f7365726869792e73332e65752d63656e7472616c2d312e616d617a6f6e6177732e636f6d2f4769746875625f7265706f2f67636c6f75642f6c6f676f5f6763705f766572746963616c5f7267622e706e673f763d31" alt="Google Cloud"></code>
+<p>
+My experience covers <strong>web application development, backend engineering, database management, server infrastructure, system integration, automation, and production support</strong>.
+</p>
 
-<!--START_SECTION:waka-->
-```text
-🌐 Cloud & Server Management
-- ☁️ Amazon Elastic Compute Cloud (EC2)
-- 🗄️ Amazon S3
-- 🛠️ Amazon Relational Database Service (RDS)
-- 🔧 Cloud Server Management
-- 🏢 On-Premise Server Management
-- 🔍 Monitoring Ubuntu Server
-- 🖥️ Setting Apache2, Nginx, and DNS
-- 🌐 Configuring Domains & Subdomains
-- 🔒 Setting Up HTTPS
+<p>
+I started my programming journey with <strong>C++</strong>, continued with <strong>VB.NET</strong>, and gradually focused on web development. Today, I work mainly with <strong>PHP, Laravel, Python, JavaScript, Vue.js, FastAPI, databases, Linux servers, cloud infrastructure, Docker, and Kubernetes</strong>.
+</p>
 
-💻 Web Development Frameworks
-- ⚙️ Laravel Framework
-- 🔍 PHP Native
-- 🖥️ Vue JS
-- 🚀 Nuxt JS
+<br />
 
-🎨 Frontend & Design
-- ✂️ Slicing Figma to HTML & CSS
-- 📝 HTML & CSS
-- 📐 Bootstrap Framework
+<img align="right" alt="Coding GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-📈 SEO & App Deployment
-- 🔍 SEO Optimization
-- 📦 Upload .aab to Google Play Console
+### 💼 What I Do
 
-🗃️ Database Management
-- 🛢️ MySQL
-- 🗄️ PostgreSQL
-- 📦 Database Backup & Restoration
+- 🚀 Build and maintain web-based business applications
+- 💻 Develop backend services and REST APIs
+- 🗄️ Design, maintain, and optimize databases
+- ☁️ Manage cloud and on-premise server infrastructure
+- 🐳 Work with Docker, Kubernetes, and CI/CD environments
+- 🔧 Deploy and maintain production applications
+- 🔄 Build system integrations and synchronization services
+- 🤖 Develop automation and scheduled data-processing workflows
+- 🛠️ Troubleshoot application, database, server, and production issues
 
-📋 Content Management
-- 📝 GraphCMS
+<br clear="right"/>
 
-🛠️ Version Control
-- 🔧 GitHub & GitLab
+---
 
-💻 Programming Languages
-- 🔣 C++
-- 📊 VB.NET
+## 🛠️ Tech Stack
 
-🧠 Logical Thinking & Problem Solving
-- 🧩 Strong Logical Thinking
-- 🛠️ Effective Problem-Solving Skills
-```
-<!--END_SECTION:waka-->
+### 💻 Backend Development
 
-**Visit:** 
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/9f8a7e3ed1b0f2e2f2d9e4f0e5f9f5c5d9e6b5d/topics/php/php.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/9f8a7e3ed1b0f2e2f2d9e4f0e5f9f5c5d9e6b5d/topics/laravel/laravel.png"></code>
+<code><img height="25" src="https://avatars.githubusercontent.com/u/2347032?s=200&v=4"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/9f8a7e3ed1b0f2e2f2d9e4f0e5f9f5c5d9e6b5d/topics/python/python.png"></code>
+<code><img height="25" src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png"></code>
 
-<a target="_blank" href="https://www.linkedin.com/in/ronald-sianipar/">
-  <img align="left" alt="Ronald Sianipar LinkedIN" width="22px" src="https://avatars.githubusercontent.com/u/357098?s=200&v=4" />
+### 🎨 Frontend Development
+
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/9f8a7e3ed1b0f2e2f2d9e4f0e5f9f5c5d9e6b5d/topics/html/html.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/9f8a7e3ed1b0f2e2f2d9e4f0e5f9f5c5d9e6b5d/topics/css/css.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/9f8a7e3ed1b0f2e2f2d9e4f0e5f9f5c5d9e6b5d/topics/javascript/javascript.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/9f8a7e3ed1b0f2e2f2d9e4f0e5f9f5c5d9e6b5d/topics/vue/vue.png"></code>
+<code><img height="25" src="https://avatars.githubusercontent.com/u/23360933?s=200&v=4"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/9f8a7e3ed1b0f2e2f2d9e4f0e5f9f5c5d9e6b5d/topics/bootstrap/bootstrap.png"></code>
+<code><img height="25" src="https://jquery.com/jquery-wp-content/themes/jquery.com/i/favicon.ico"></code>
+
+### 🗄️ Database
+
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/9f8a7e3ed1b0f2e2f2d9e4f0e5f9f5c5d9e6b5d/topics/mysql/mysql.png"></code>
+<code><img height="25" src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/9f8a7e3ed1b0f2e2f2d9e4f0e5f9f5c5d9e6b5d/topics/postgresql/postgresql.png"></code>
+
+- SQL
+- Database Design
+- Query Optimization
+- Database Indexing
+- Transactions
+- Backup & Restoration
+- Large-scale Data Processing
+
+### ☁️ Cloud & Infrastructure
+
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/9f8a7e3ed1b0f2e2f2d9e4f0e5f9f5c5d9e6b5d/topics/aws/aws.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/9f8a7e3ed1b0f2e2f2d9e4f0e5f9f5c5d9e6b5d/topics/docker/docker.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/9f8a7e3ed1b0f2e2f2d9e4f0e5f9f5c5d9e6b5d/topics/kubernetes/kubernetes.png"></code>
+<code><img height="25" src="https://www.jenkins.io/images/logos/jenkins/jenkins.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/9f8a7e3ed1b0f2e2f2d9e4f0e5f9f5c5d9e6b5d/topics/ubuntu/ubuntu.png"></code>
+
+- Amazon EC2
+- Amazon S3
+- Amazon RDS
+- Docker & Docker Compose
+- Kubernetes
+- Jenkins & CI/CD
+- Linux Server Administration
+- Ubuntu & CentOS
+- Apache / Apache2
+- Nginx
+- PHP-FPM
+- SSH
+- DNS & Domain Configuration
+- HTTPS / SSL
+- FTP Server
+- Production Support
+- System Monitoring
+- Log Analysis
+
+### 🔗 Integration & Automation
+
+- REST API
+- API Integration
+- System Integration
+- System Synchronization
+- CORS
+- JSON
+- SMTP / Email Integration
+- SharePoint Integration
+- Reporting Automation
+- Excel-to-Database Processing
+- RPA & Automated Data Processing
+- Scheduled Jobs / Cron
+
+### 🧰 Tools & Version Control
+
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/9f8a7e3ed1b0f2e2f2d9e4f0e5f9f5c5d9e6b5d/topics/git/git.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/9f8a7e3ed1b0f2e2f2d9e4f0e5f9f5c5d9e6b5d/topics/github/github.png"></code>
+
+- Git
+- GitHub
+- GitLab
+- Visual Studio Code
+- Navicat
+- PgAdmin
+- PuTTY
+- WinSCP
+- XAMPP
+
+---
+
+## 🏗️ Architecture & Development
+
+- MVC Architecture
+- Object-Oriented Programming
+- Monolithic Architecture
+- Microservices Architecture
+- Backend Services
+- REST API Development
+- Database Optimization
+- System Integration
+- Production Troubleshooting
+- Technical Analysis
+- Problem Solving
+
+---
+
+## 🚀 Featured Projects
+
+### JPAR — JNE Tangerang Internal Application
+
+Internal enterprise application covering:
+
+- Billing & transaction processing
+- Reporting
+- Agent & member management
+- Promotions
+- Operational workflows
+- Backend services
+- Database processing
+- System integrations
+
+### E-PATROL
+
+Microservice-based backend application using:
+
+- Python
+- FastAPI
+- SQLAlchemy
+- Alembic
+- PostgreSQL
+- Docker
+- Kubernetes
+- Gunicorn
+
+### Freelance Attendance
+
+Internal attendance system supporting:
+
+- Attendance processing
+- Scheduled data synchronization
+- Database processing
+- Reporting
+
+### RPA & Automated Data Processing
+
+Automation workflows for:
+
+- Scheduled inbound processing
+- Intracity data processing
+- SharePoint integration
+- Automated reporting
+- Repetitive operational workflows
+
+---
+
+## 💼 Professional Experience
+
+**Full Stack Developer — PT JALA NIAGA ELOK (JNE Tangerang)**  
+`Dec 2023 - Present`
+
+**Full Stack Developer — PT MITRA FESYEN GLOBAL**  
+`Oct 2021 - Dec 2023`
+
+**Freelance Web Developer — Ministry of Foreign Affairs of the Republic of Indonesia**  
+`Jun 2021 - Nov 2021`
+
+**Web Developer Intern — LENNA.AI**  
+`Aug 2021 - Sep 2021`
+
+**Web Developer Intern — CV IDS**  
+`Sep 2020 - Dec 2020`
+
+---
+
+## 🎓 Education
+
+**Universitas Pamulang**  
+Informatics Engineering — `2022 - 2026`
+
+**SMK Wikrama Bogor**  
+Software Engineering — `2018 - 2021`
+
+---
+
+## 📜 Certifications
+
+- Programmer Junior — BNSP
+- Cyber Security Training
+- Git Course — Progate
+- Python Course — Progate
+- 18 Hours Back End Training — Progate
+- SOLID Programming Principles — Dicoding
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ronaldsianypar&show_icons=true&theme=default&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ronaldsianypar&theme=default&hide_border=true" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="left">
+
+<a href="https://ronaldsianypar.github.io/" target="_blank">
+  🌐 Portfolio
 </a>
+<br>
+
+<a href="https://www.linkedin.com/in/ronald-sianipar/" target="_blank">
+  💼 LinkedIn
+</a>
+<br>
+
+<a href="https://github.com/ronaldsianypar" target="_blank">
+  🐙 GitHub
+</a>
+<br>
+
+<a href="mailto:ronaldsianypar@gmail.com">
+  📧 Email
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  Thanks for visiting my profile! 🚀
+</p>
