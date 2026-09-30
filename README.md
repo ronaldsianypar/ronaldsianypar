@@ -6,20 +6,10 @@
   <a href="mailto:ronaldsianypar@gmail.com">Email</a>
 </p>
 
-<br />
-
 <h2>Hello, I'm Ronald Sianipar</h2>
 
 <p>
-I'm a <strong>Full Stack Developer</strong> from Indonesia with <strong>5+ years of professional experience</strong> building, maintaining, deploying, and supporting web-based systems.
-</p>
-
-<p>
-My experience covers <strong>web application development, backend engineering, database management, server infrastructure, system integration, automation, and production support</strong>.
-</p>
-
-<p>
-I started my programming journey with <strong>C++</strong>, continued with <strong>VB.NET</strong>, and gradually focused on web development. Today, I work mainly with <strong>PHP, Laravel, Python, JavaScript, Vue.js, FastAPI, databases, Linux servers, cloud infrastructure, Docker, and Kubernetes</strong>.
+I'm a <strong>Full Stack Developer</strong> from Indonesia with <strong>5+ years of professional experience</strong> building, maintaining, deploying, and supporting systems.
 </p>
 
 <br />
@@ -221,86 +211,6 @@ I started my programming journey with <strong>C++</strong>, continued with <stro
 
 ---
 
-## 💼 Professional Experience
-
-### Full Stack Developer — PT JALA NIAGA ELOK (JNE Tangerang)
-
-`Dec 2023 - Present`
-
-Working across:
-
-- Web application development
-- Backend development
-- Server administration
-- Database management
-- Application deployment
-- Production support
-- System integration
-- Automation
-- Microservices
-- Monolithic applications
-
-### Full Stack Developer — PT MITRA FESYEN GLOBAL
-
-`Oct 2021 - Dec 2023`
-
-Worked on:
-
-- Web application development
-- Backend development
-- Database management
-- Server management
-- Cloud infrastructure
-- Microservice-based websites
-- Internal dashboards
-- SEO optimization
-- Application deployment
-
-### Freelance Web Developer — Ministry of Foreign Affairs of the Republic of Indonesia
-
-`Jun 2021 - Nov 2021`
-
-- Developed an LMS application named CETO
-- Created application use cases
-- Designed and compiled application databases
-
-### Web Developer Intern — LENNA.AI
-
-`Aug 2021 - Sep 2021`
-
-- Developed and maintained website updates
-- Learned and implemented Nuxt.js
-- Used GitHub for collaboration and version control
-- Presented project progress to management
-
-### Web Developer Intern — CV IDS
-
-`Sep 2020 - Dec 2020`
-
-- Developed company bio website using PHP Native
-- Developed student data management system using Laravel, MySQL, and Bootstrap
-- Collaborated using GitLab
-
----
-
-# 🎓 Education
-`2022 - 2026` **Universitas Pamulang - Informatics Engineering**
-
-`2018 - 2021` **SMK Wikrama Bogor - Software Engineering**
-
----
-
-## 📜 Certifications
-
-- Programmer Junior — BNSP
-- Cyber Security Training
-- Git Course — Progate
-- Python Course — Progate
-- 18 Hours Back End Training — Progate
-- SOLID Programming Principles — Dicoding
-
----
-
 ## 🌐 Portfolio
 
 <p align="center">
@@ -336,10 +246,4 @@ Worked on:
   <a href="mailto:ronaldsianypar@gmail.com">
     📧 Email
   </a>
-</p>
-
----
-
-<p align="center">
-  Thanks for visiting my profile!
 </p>
